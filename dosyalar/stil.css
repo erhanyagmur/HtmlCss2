@@ -1,0 +1,32 @@
+body{
+	background:#C1DEEE url(body-bg.png) repeat-x;
+	font:12px "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#sayfa{
+	width:600px;
+	margin:100px auto 40px;
+	background:#FFF;
+	padding:15px;
+	border:2px solid #8FC1DA;
+}
+h1{
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align:center;
+}
+p{
+	line-height:2;
+	text-align:justify;
+}
+.image{
+	text-align:center;
+}
+.image img{
+	border-bottom:10px solid #8FC1DA;
+}
+h2 , a{
+	color:#328bbd;
+	text-decoration:none;
+}
+.green{
+	color:#54a24b;
+}
